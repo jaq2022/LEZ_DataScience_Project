@@ -7,3 +7,5 @@
 * Notebook "Datos_Espiras_Completo": código para realizar el primer preprocesado de datos de tráfico. Lectura de datos en crudo y conversión a serie diaria con intensidad de tráfico diaria.
 
 * Notebook "Clustering": código para obtener el valor óptimo de clústers y obtenerlos.
+
+* Notebook "modelo_no2_tetuan": código para entrenar modelos con diferentes algoritmos de machine learning.
